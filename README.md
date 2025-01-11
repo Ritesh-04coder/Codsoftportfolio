@@ -65,7 +65,8 @@ LinkedIn: https://www.linkedin.com/in/ritesh-singh-98403927b?utm_source=share&ut
 ⭐ If you found this project helpful, consider giving it a star on GitHub!
 
                                                                            ScreenShots of the Projetcs
-                                                                           ![Uploading Screenshot (4).pn
+                                                                           
+![Screenshot (4)](https://github.com/user-attachments/assets/23fead38-9f44-4156-892d-963edb26b11c)
 ![Screenshot (5)](https://github.com/user-attachments/assets/fa1bccba-498f-4915-b63a-4cc61afba23a)
 ![Screenshot (6)](https://github.com/user-attachments/assets/e6222f11-b8a8-4159-bcac-2e33831ff4ad)
 ![Screenshot (7)](https://github.com/user-attachments/assets/99392480-7451-408f-961e-80e4b91ddff7)
